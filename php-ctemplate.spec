@@ -4,7 +4,7 @@ Version:	1.6
 Release:	%mkrel 6
 Group:		Development/PHP
 License:	BSD
-URL:		http://code.google.com/p/php-ctemplate/
+URL:		https://code.google.com/p/php-ctemplate/
 Source0:	http://php-ctemplate.googlecode.com/files/cTemplate-%{version}.tar.bz2
 BuildRequires:	php-devel >= 3:5.2.0
 BuildRequires:	ctemplate-devel >= 0.90
