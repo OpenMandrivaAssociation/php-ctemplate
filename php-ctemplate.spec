@@ -6,6 +6,11 @@ Group:		Development/PHP
 License:	BSD
 URL:		https://code.google.com/p/php-ctemplate/
 Source0:	http://php-ctemplate.googlecode.com/files/cTemplate-%{version}.tar.bz2
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	php-devel >= 3:5.2.0
 BuildRequires:	ctemplate-devel >= 0.90
 BuildRequires:	libstdc++-devel
