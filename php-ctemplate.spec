@@ -1,7 +1,7 @@
 Summary:	A PHP extension for the Google ctemplate library
 Name:		php-ctemplate
 Version:	1.6
-Release:	%mkrel 6
+Release:	7
 Group:		Development/PHP
 License:	BSD
 URL:		https://code.google.com/p/php-ctemplate/
